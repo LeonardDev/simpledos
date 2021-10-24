@@ -1,1 +1,2 @@
-# simpledos
+activate: 
+python wow.py
